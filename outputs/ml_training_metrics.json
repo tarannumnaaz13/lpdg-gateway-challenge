@@ -1,0 +1,12 @@
+{
+  "train_rows": 5247,
+  "validation_rows": 3229,
+  "train_positive_rate": 0.37773966075852866,
+  "validation_positive_rate": 0.34437906472592134,
+  "accuracy": 0.9098792195726231,
+  "precision": 0.831315577078289,
+  "recall": 0.9262589928057554,
+  "f1": 0.8762228838792003,
+  "roc_auc": 0.9651973744575431,
+  "average_precision": 0.9511516437882813
+}

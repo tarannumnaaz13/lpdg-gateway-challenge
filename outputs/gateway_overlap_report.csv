@@ -1,0 +1,5 @@
+dataset,unique_gateways,overlap_with_telemetry
+telemetry,320,320
+gateway_master,332,320
+field_visits,247,247
+engineer_review,120,120
