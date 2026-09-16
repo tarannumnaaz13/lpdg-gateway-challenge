@@ -27,3 +27,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log.review_env/
+
+.review_env/
