@@ -38,3 +38,6 @@ The data is for this exercise only. Please do not pass it on or publish it.
 
 Questions go to the address in your invitation email, by the dates in the
 brief. Every answer goes to everyone.
+## Submission Resources
+
+- **Project Demonstration Video:** [Watch the Demo Video](https://drive.google.com/file/d/1nowlcDprDwAvbEXpkM4QC8Q8wZrCRjGD/view?usp=sharing)
